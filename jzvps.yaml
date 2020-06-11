@@ -103,11 +103,11 @@ Proxy:
 #  #  Host: v2ray.com    # HOST
 
 # Trojan 的配置
-#- name: "trojan"
-#  type: trojan
-#  server: server
-#  port: 443
-#  password: yourpsk
+- name: "trojan"
+  type: trojan
+  server: jz.laohei.info
+  port: 443
+  password: xixi0310
 #  # udp: true
 #  # sni: example.com # aka server name
 #  # alpn:
